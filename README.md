@@ -1,0 +1,2 @@
+# experimental_travis_deps
+VCMI_experimental_mxe_deps
